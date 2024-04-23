@@ -12,7 +12,7 @@ ODBC é uma interface de programação que permite que aplicativos acessem e man
 #### Vantagens:
 - **Portabilidade:** Permite que os aplicativos acessem uma variedade de SGBDs sem precisar modificar o código.
 - **Padronização:** Oferece uma interface padronizada para acesso a dados, facilitando o desenvolvimento e a manutenção de aplicativos.
-- **Performance:** Os drivers ODBC são otimizados para maximizar a performance de acesso aos dados.
+- **Performance:** Os drivers ODBC são otimizados para maximizar a performance de acesso aos dados
 
 ### ORM (Object-Relational Mapping)
 
