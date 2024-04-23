@@ -7,7 +7,7 @@ ODBC é uma interface de programação que permite que aplicativos acessem e man
 1. **Driver ODBC:** Um driver ODBC é um componente de software que permite a comunicação entre o aplicativo e o SGBD.
 2. **Conexão:** O aplicativo estabelece uma conexão com o SGBD através de um DSN (Data Source Name) configurado no sistema.
 3. **Execução de Comandos SQL:** Uma vez estabelecida a conexão, o aplicativo pode enviar comandos SQL para o SGBD, como consultas de leitura, inserção, atualização ou exclusão de dados.
-4. **Processamento de Resultados:** O SGBD executa as consultas e retorna os resultados para o aplicativo através do driver ODBC.
+4. **Processamento de Resultados:** O SGBD executa as consultas e retorna os resultados para o aplicativo através do driver ODBC
 
 #### Vantagens:
 - **Portabilidade:** Permite que os aplicativos acessem uma variedade de SGBDs sem precisar modificar o código.
